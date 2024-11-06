@@ -1,0 +1,67 @@
+﻿@model IEnumerable<ShopGiay.Models.ChiTietGiay>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<form asp-controller="ChiTietGiays" asp-action="Index">
+    <p>
+        TenGiay: <input type="text" name="SearchString" />
+        <input type="submit" value="Filter" />
+    </p>
+</form>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.TenGiay)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.KichCo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MauSac)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Gia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MaLoaiGiay)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenGiay)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.KichCo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MauSac)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Gia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaLoaiGiay)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.MaGiay">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.MaGiay">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.MaGiay">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

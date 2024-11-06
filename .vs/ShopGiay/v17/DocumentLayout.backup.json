@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\n\u0103m 4\\ASP.net\\ShopGiay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57989239-5843-4C8D-824C-B84F24096B45}|ShopGiay\\ShopGiay.csproj|c:\\n\u0103m 4\\asp.net\\shopgiay\\shopgiay\\models\\loaigiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57989239-5843-4C8D-824C-B84F24096B45}|ShopGiay\\ShopGiay.csproj|solutionrelative:shopgiay\\models\\loaigiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57989239-5843-4C8D-824C-B84F24096B45}|ShopGiay\\ShopGiay.csproj|c:\\n\u0103m 4\\asp.net\\shopgiay\\shopgiay\\models\\chitietgiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57989239-5843-4C8D-824C-B84F24096B45}|ShopGiay\\ShopGiay.csproj|solutionrelative:shopgiay\\models\\chitietgiay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57989239-5843-4C8D-824C-B84F24096B45}|ShopGiay\\ShopGiay.csproj|c:\\n\u0103m 4\\asp.net\\shopgiay\\shopgiay\\views\\loaigiays\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57989239-5843-4C8D-824C-B84F24096B45}|ShopGiay\\ShopGiay.csproj|solutionrelative:shopgiay\\views\\loaigiays\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57989239-5843-4C8D-824C-B84F24096B45}|ShopGiay\\ShopGiay.csproj|c:\\n\u0103m 4\\asp.net\\shopgiay\\shopgiay\\views\\chitietgiays\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57989239-5843-4C8D-824C-B84F24096B45}|ShopGiay\\ShopGiay.csproj|solutionrelative:shopgiay\\views\\chitietgiays\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57989239-5843-4C8D-824C-B84F24096B45}|ShopGiay\\ShopGiay.csproj|c:\\n\u0103m 4\\asp.net\\shopgiay\\shopgiay\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57989239-5843-4C8D-824C-B84F24096B45}|ShopGiay\\ShopGiay.csproj|solutionrelative:shopgiay\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57989239-5843-4C8D-824C-B84F24096B45}|ShopGiay\\ShopGiay.csproj|c:\\n\u0103m 4\\asp.net\\shopgiay\\shopgiay\\controllers\\loaigiayscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57989239-5843-4C8D-824C-B84F24096B45}|ShopGiay\\ShopGiay.csproj|solutionrelative:shopgiay\\controllers\\loaigiayscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57989239-5843-4C8D-824C-B84F24096B45}|ShopGiay\\ShopGiay.csproj|c:\\n\u0103m 4\\asp.net\\shopgiay\\shopgiay\\controllers\\chitietgiayscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57989239-5843-4C8D-824C-B84F24096B45}|ShopGiay\\ShopGiay.csproj|solutionrelative:shopgiay\\controllers\\chitietgiayscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57989239-5843-4C8D-824C-B84F24096B45}|ShopGiay\\ShopGiay.csproj|c:\\n\u0103m 4\\asp.net\\shopgiay\\shopgiay\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57989239-5843-4C8D-824C-B84F24096B45}|ShopGiay\\ShopGiay.csproj|solutionrelative:shopgiay\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57989239-5843-4C8D-824C-B84F24096B45}|ShopGiay\\ShopGiay.csproj|c:\\n\u0103m 4\\asp.net\\shopgiay\\shopgiay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57989239-5843-4C8D-824C-B84F24096B45}|ShopGiay\\ShopGiay.csproj|solutionrelative:shopgiay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57989239-5843-4C8D-824C-B84F24096B45}|ShopGiay\\ShopGiay.csproj|c:\\n\u0103m 4\\asp.net\\shopgiay\\shopgiay\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57989239-5843-4C8D-824C-B84F24096B45}|ShopGiay\\ShopGiay.csproj|solutionrelative:shopgiay\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/LAPTOP_1ARQD125_SQLEXPRESS/ShopGiayContext_594a80fb_7914_46ea_abd6_20822e627866/True/SqlTable/dbo.LoaiGiay.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57989239-5843-4C8D-824C-B84F24096B45}|ShopGiay\\ShopGiay.csproj|c:\\n\u0103m 4\\asp.net\\shopgiay\\shopgiay\\migrations\\20240826185320_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57989239-5843-4C8D-824C-B84F24096B45}|ShopGiay\\ShopGiay.csproj|solutionrelative:shopgiay\\migrations\\20240826185320_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\n\u0103m 4\\ASP.net\\ShopGiay\\ShopGiay\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "ShopGiay\\Models\\SeedData.cs",
+              "ToolTip": "C:\\n\u0103m 4\\ASP.net\\ShopGiay\\ShopGiay\\Models\\SeedData.cs",
+              "RelativeToolTip": "ShopGiay\\Models\\SeedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T00:41:50.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\n\u0103m 4\\ASP.net\\ShopGiay\\ShopGiay\\Program.cs",
+              "RelativeDocumentMoniker": "ShopGiay\\Program.cs",
+              "ToolTip": "C:\\n\u0103m 4\\ASP.net\\ShopGiay\\ShopGiay\\Program.cs",
+              "RelativeToolTip": "ShopGiay\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T00:21:21.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\n\u0103m 4\\ASP.net\\ShopGiay\\ShopGiay\\appsettings.json",
+              "RelativeDocumentMoniker": "ShopGiay\\appsettings.json",
+              "ToolTip": "C:\\n\u0103m 4\\ASP.net\\ShopGiay\\ShopGiay\\appsettings.json",
+              "RelativeToolTip": "ShopGiay\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAACsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-27T00:15:30.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\n\u0103m 4\\ASP.net\\ShopGiay\\ShopGiay\\Views\\LoaiGiays\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopGiay\\Views\\LoaiGiays\\Index.cshtml",
+              "ToolTip": "C:\\n\u0103m 4\\ASP.net\\ShopGiay\\ShopGiay\\Views\\LoaiGiays\\Index.cshtml",
+              "RelativeToolTip": "ShopGiay\\Views\\LoaiGiays\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T20:08:26.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\n\u0103m 4\\ASP.net\\ShopGiay\\ShopGiay\\Views\\ChiTietGiays\\Index.cshtml",
+              "RelativeDocumentMoniker": "ShopGiay\\Views\\ChiTietGiays\\Index.cshtml",
+              "ToolTip": "C:\\n\u0103m 4\\ASP.net\\ShopGiay\\ShopGiay\\Views\\ChiTietGiays\\Index.cshtml",
+              "RelativeToolTip": "ShopGiay\\Views\\ChiTietGiays\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T19:53:59.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChiTietGiaysController.cs",
+              "DocumentMoniker": "C:\\n\u0103m 4\\ASP.net\\ShopGiay\\ShopGiay\\Controllers\\ChiTietGiaysController.cs",
+              "RelativeDocumentMoniker": "ShopGiay\\Controllers\\ChiTietGiaysController.cs",
+              "ToolTip": "C:\\n\u0103m 4\\ASP.net\\ShopGiay\\ShopGiay\\Controllers\\ChiTietGiaysController.cs",
+              "RelativeToolTip": "ShopGiay\\Controllers\\ChiTietGiaysController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:52:46.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.LoaiGiay [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/LAPTOP_1ARQD125_SQLEXPRESS/ShopGiayContext_594a80fb_7914_46ea_abd6_20822e627866/True/SqlTable/dbo.LoaiGiay.sql",
+              "ToolTip": "dbo.LoaiGiay [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-26T19:29:08.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240826185320_InitialCreate.cs",
+              "DocumentMoniker": "C:\\n\u0103m 4\\ASP.net\\ShopGiay\\ShopGiay\\Migrations\\20240826185320_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ShopGiay\\Migrations\\20240826185320_InitialCreate.cs",
+              "ToolTip": "C:\\n\u0103m 4\\ASP.net\\ShopGiay\\ShopGiay\\Migrations\\20240826185320_InitialCreate.cs",
+              "RelativeToolTip": "ShopGiay\\Migrations\\20240826185320_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:53:20.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoaiGiaysController.cs",
+              "DocumentMoniker": "C:\\n\u0103m 4\\ASP.net\\ShopGiay\\ShopGiay\\Controllers\\LoaiGiaysController.cs",
+              "RelativeDocumentMoniker": "ShopGiay\\Controllers\\LoaiGiaysController.cs",
+              "ToolTip": "C:\\n\u0103m 4\\ASP.net\\ShopGiay\\ShopGiay\\Controllers\\LoaiGiaysController.cs",
+              "RelativeToolTip": "ShopGiay\\Controllers\\LoaiGiaysController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:50:30.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChiTietGiay.cs",
+              "DocumentMoniker": "C:\\n\u0103m 4\\ASP.net\\ShopGiay\\ShopGiay\\Models\\ChiTietGiay.cs",
+              "RelativeDocumentMoniker": "ShopGiay\\Models\\ChiTietGiay.cs",
+              "ToolTip": "C:\\n\u0103m 4\\ASP.net\\ShopGiay\\ShopGiay\\Models\\ChiTietGiay.cs",
+              "RelativeToolTip": "ShopGiay\\Models\\ChiTietGiay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:45:30.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoaiGiay.cs",
+              "DocumentMoniker": "C:\\n\u0103m 4\\ASP.net\\ShopGiay\\ShopGiay\\Models\\LoaiGiay.cs",
+              "RelativeDocumentMoniker": "ShopGiay\\Models\\LoaiGiay.cs",
+              "ToolTip": "C:\\n\u0103m 4\\ASP.net\\ShopGiay\\ShopGiay\\Models\\LoaiGiay.cs",
+              "RelativeToolTip": "ShopGiay\\Models\\LoaiGiay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:43:18.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\n\u0103m 4\\ASP.net\\ShopGiay\\ShopGiay\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ShopGiay\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\n\u0103m 4\\ASP.net\\ShopGiay\\ShopGiay\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ShopGiay\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T23:57:04.906Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

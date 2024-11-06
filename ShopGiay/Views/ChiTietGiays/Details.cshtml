@@ -1,0 +1,48 @@
+﻿@model ShopGiay.Models.ChiTietGiay
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>ChiTietGiay</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TenGiay)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TenGiay)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.KichCo)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.KichCo)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.MauSac)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.MauSac)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Gia)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Gia)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.MaLoaiGiay)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.MaLoaiGiay)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.MaGiay">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>
